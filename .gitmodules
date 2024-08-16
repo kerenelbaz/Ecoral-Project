@@ -1,0 +1,9 @@
+[submodule "Frontend - React"]
+	path = Frontend - React
+	url = https://github.com/kerenelbaz/react-frontend-ecoral.git
+[submodule "Backend - Node.js Server"]
+	path = Backend - Node.js Server
+	url = https://github.com/kerenelbaz/Ecoral.git
+[submodule "ASP.NET Server - Users"]
+	path = ASP.NET Server - Users
+	url = https://github.com/idanlevin600/ECORAL-user-server.git
