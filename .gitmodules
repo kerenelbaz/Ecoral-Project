@@ -1,0 +1,3 @@
+[submodule "kerenelbaz/projects/Ecoral-projects"]
+	path = kerenelbaz/projects/Ecoral-projects
+	url = https://github.com/kerenelbaz/react-frontend-ecoral.git
