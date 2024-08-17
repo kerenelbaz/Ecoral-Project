@@ -7,3 +7,6 @@
 [submodule "ASP.NET Server - Users"]
 	path = ASP.NET Server - Users
 	url = https://github.com/idanlevin600/ECORAL-user-server.git
+[submodule "Model and decoding data"]
+	path = Model and decoding data
+	url = https://github.com/kirilldevs/Ecoral-Flask-API.git
